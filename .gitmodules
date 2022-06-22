@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "neo4r"]
+	path = neo4r
+	url = https://github.com/neo4j-rstats/neo4r
+	shallow = true
+	registered = true
